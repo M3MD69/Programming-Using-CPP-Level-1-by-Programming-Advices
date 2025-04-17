@@ -9,3 +9,4 @@ add_executable(_2_output_OutputLessonSecondHomework.cpp src/_2_output/OutputLess
 add_executable(_2_output_OutputLessonThirdHomework.cpp src/_2_output/OutputLessonThirdHomework.cpp)
 add_executable(_2_output_OutputLessonFourthHomework.cpp src/_2_output/OutputLessonFourthHomework.cpp)
 add_executable(_3_omitting_namespace_OmittingNamespace.cpp src/_3_omitting_namespace/OmittingNamespace.cpp)
+add_executable(_4_comments_CommentsLesson.cpp src/_4_comments/CommentsLesson.cpp)
