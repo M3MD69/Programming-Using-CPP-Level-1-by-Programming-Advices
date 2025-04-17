@@ -1,11 +1,10 @@
-using namespace std;
 #include <iostream>
 
 int main() {
-    cout << "******************************" << endl;
-    cout << "Name: " << "Mohamed Sadawy" << endl;
-    cout << "Age: " << "22" << endl;
-    cout << "City: " << "Sohag" << endl;
-    cout << "Country: " << "Egypt" << endl;
-    cout << "******************************";
+    std::cout << "******************************" << std::endl;
+    std::cout << "Name: " << "Mohamed Sadawy" << std::endl;
+    std::cout << "Age: " << "22" << std::endl;
+    std::cout << "City: " << "Sohag" << std::endl;
+    std::cout << "Country: " << "Egypt" << std::endl;
+    std::cout << "******************************";
 }
