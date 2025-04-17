@@ -8,5 +8,5 @@ add_executable(_2_output_OutputLessonFirstHomework.cpp src/_2_output/OutputLesso
 add_executable(_2_output_OutputLessonSecondHomework.cpp src/_2_output/OutputLessonSecondHomework.cpp)
 add_executable(_2_output_OutputLessonThirdHomework.cpp src/_2_output/OutputLessonThirdHomework.cpp)
 add_executable(_2_output_OutputLessonFourthHomework.cpp src/_2_output/OutputLessonFourthHomework.cpp)
-add_executable(_3_omitting_namespace_OmittingNamespace.cpp src/_3_omitting_namespace/OmittingNamespace.cpp)
+add_executable(_3_omitting_namespace_OmittingNamespaceLesson.cpp src/_3_omitting_namespace/OmittingNamespaceLesson.cpp)
 add_executable(_4_comments_CommentsLesson.cpp src/_4_comments/CommentsLesson.cpp)
