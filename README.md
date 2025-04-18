@@ -24,3 +24,4 @@
 18. [Nested Structures and Enums](src/_18_nested_structures_and_enums)
 19. [Data Type Conversion](src/_19_data_type_conversion)
 20. [Strings](src/_20_strings)
+21. [Functions Part 1](src/_21_functions_part_1)
