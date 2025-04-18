@@ -20,3 +20,4 @@
 14. [Logical Operators](src/_14_logical_operators)
 15. [Math Functions](src/_15_math_functions)
 16. [Structures](src/_16_strcutures)
+17. [Enums](src/_17_enums)

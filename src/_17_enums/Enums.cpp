@@ -1,33 +1,42 @@
 #include <iostream>
 using namespace std;
 
+enum Gender {
+    Male, Female
+};
+
+enum Color {
+    Black,
+    Red,
+    DeepSkyBlue,
+    LimeGreen,
+    Gold,
+    Crimson,
+    Burgundy,
+    DeepPink
+};
+
 struct Person {
     string name;
-    char gender;
+    Gender gender;
     short age;
     string city;
     string country;
     float height;
     bool married;
+    Color favouriteColor;
 };
 
 int main() {
     Person someone;
-
-    cout << "Enter Name:" << endl;
-    cin >> someone.name;
-    cout << "Enter Gender:" << endl;
-    cin >> someone.gender;
-    cout << "Enter Age:" << endl;
-    cin >> someone.age;
-    cout << "Enter City:" << endl;
-    cin >> someone.city;
-    cout << "Enter Country:" << endl;
-    cin >> someone.country;
-    cout << "Enter Height:" << endl;
-    cin >> someone.height;
-    cout << "Enter Married:" << endl;
-    cin >> someone.married;
+    someone.name = "Mohamed";
+    someone.gender = Male;
+    someone.age = 22;
+    someone.city = "Sohag";
+    someone.country = "Egypt";
+    someone.height = 170;
+    someone.married = false;
+    someone.favouriteColor = Red;
 
     const string STARS_LINE = "******************************";
 
@@ -39,5 +48,6 @@ int main() {
     cout << "Country: " << someone.country << endl;
     cout << "Gender: " << someone.height << endl;
     cout << "Married: " << someone.married << endl;
+    cout << "Favourite Color: " << someone.favouriteColor << endl;
     cout << STARS_LINE;
 }
