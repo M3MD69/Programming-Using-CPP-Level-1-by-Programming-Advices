@@ -1,5 +1,5 @@
-using namespace std;
 #include <iostream>
+using namespace std;
 
 int main() {
     cout << "Dear Ahmed\n" << endl;

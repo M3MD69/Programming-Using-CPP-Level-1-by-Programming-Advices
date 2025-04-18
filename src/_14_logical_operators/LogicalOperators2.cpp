@@ -1,5 +1,5 @@
-using namespace std;
 #include <iostream>
+using namespace std;
 
 int main() {
     cout << "1 -> " << ((5 > 6 and 7 == 7) or (1 or 0)) << endl;

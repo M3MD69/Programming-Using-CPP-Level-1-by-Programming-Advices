@@ -1,5 +1,5 @@
-using namespace std;
 #include <iostream>
+using namespace std;
 
 int main() {
     cout << (12 >= 12) << " | " << !(12 >= 12) << " | " << (1 && 1) << " | " << (7 == 7 && 7 > 5) << endl;

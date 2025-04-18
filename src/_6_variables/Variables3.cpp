@@ -1,5 +1,5 @@
-using namespace std;
 #include <iostream>
+using namespace std;
 
 int main() {
     const int FIRST_NUMBER = 20,
