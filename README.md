@@ -15,3 +15,4 @@
 9. [Arithmetic Operators](src/_9_arithmetic_operators)
 10. [Increment Decrement Operators](src/_10_increment_decrement_operators)
 11. [Postfix vs Prefix](src/_11_postfix_vs_prefix)
+12. [Assignment Operators](src/_12_assignment_operators)
