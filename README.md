@@ -12,3 +12,4 @@
 6. [Variables](src/_6_variables)
 7. [User Inputs](src/_7_user_inputs)
 8. [Data Types](src/_8_data_types)
+9. [Arithmetic Operators](src/_9_arithmetic_operators)
