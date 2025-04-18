@@ -25,3 +25,4 @@
 19. [Data Type Conversion](src/_19_data_type_conversion)
 20. [Strings](src/_20_strings)
 21. [Functions Part 1](src/_21_functions_part_1)
+22. [GetLine](src/_22_get_line)
