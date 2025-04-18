@@ -9,3 +9,4 @@
 3. [Omitting Namespace](src/_3_omitting_namespace)
 4. [Comments](src/_4_comments)
 5. [Literals and Escape Sequences](src/_5_literals_and_escape_sequences)
+6. [Variables](src/_6_variables)
