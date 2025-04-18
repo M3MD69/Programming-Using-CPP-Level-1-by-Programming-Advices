@@ -10,4 +10,5 @@
 4. [Comments](src/_4_comments)
 5. [Literals and Escape Sequences](src/_5_literals_and_escape_sequences)
 6. [Variables](src/_6_variables)
-7. [User Inputs](src/_)
+7. [User Inputs](src/_7_user_inputs)
+8. [Data Types](src/_8_data_types)
