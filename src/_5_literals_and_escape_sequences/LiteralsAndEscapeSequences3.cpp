@@ -3,5 +3,5 @@ using namespace std;
 
 int main() {
     cout << "Mohamed\t\tAhmed\t\tMahmoud" << endl;
-    cout << "Mohamed\t\tMahmoud\t\tAhmed";
+    cout << "Ahmed\t\tMahmoud\t\tMohamed";
 }
