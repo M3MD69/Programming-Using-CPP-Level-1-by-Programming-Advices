@@ -26,3 +26,4 @@
 20. [Strings](src/_20_strings)
 21. [Functions Part 1](src/_21_functions_part_1)
 22. [GetLine](src/_22_get_line)
+23. [Functions Part 2 Functions vs Procedures](src/_23_functions_part_2_functions_vs_procedures)
