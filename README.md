@@ -33,3 +33,4 @@
 27. [Structures and Functions Reusability](src/_27_structures_and_functions_reusability)
 28. [Arrays](src/_28_arrays)
 29. [Arrays and Functions](src/_29_arrays_and_functions)
+30. [Arrays of Structure](src/_30_arrays_of_structure)
