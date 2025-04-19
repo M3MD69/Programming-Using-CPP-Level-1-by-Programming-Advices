@@ -37,3 +37,4 @@
 31. [Conditional Statements If and If Else Statement](src/_31_conditional_statements_if_and_if_else_statement)
 32. [Conditional Else If Statement](src/_32_conditional_else_if_statement)
 33. [Enums with If Statements](src/_33_enums_with_if_statements)
+34. [Switch Case Statement](src/_34_switch_case_statement)

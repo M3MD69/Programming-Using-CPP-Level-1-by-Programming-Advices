@@ -8,7 +8,7 @@ enum ScreenColor {
 };
 
 void printScreenColorMenu() {
-    cout << "Please Choose the number of your color?" << endl;
+    cout << "Please choose the number of your color?" << endl;
     cout << "(1) Red" << endl;
     cout << "(2) Green" << endl;
     cout << "(3) Blue" << endl;
