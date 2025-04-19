@@ -39,5 +39,5 @@
 33. [Enums with If Statements](src/_33_enums_with_if_statements)
 34. [Switch Case Statement](src/_34_switch_case_statement)
 35. [Nested Functions with Enums](src/_35_nested_functions_with_enums)
-36. [For Loops](src/_36_for_loops)
 36. [For Loop](src/_36_for_loop)
+37. [For Loop and Arrays](src/_37_for_loop_and_arrays)
