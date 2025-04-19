@@ -38,3 +38,4 @@
 32. [Conditional Else If Statement](src/_32_conditional_else_if_statement)
 33. [Enums with If Statements](src/_33_enums_with_if_statements)
 34. [Switch Case Statement](src/_34_switch_case_statement)
+35. [Nested Functions with Enums](src/_35_nested_functions_with_enums)
