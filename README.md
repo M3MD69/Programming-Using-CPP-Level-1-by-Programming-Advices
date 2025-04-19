@@ -29,3 +29,4 @@
 23. [Functions Part 2 Functions vs Procedures](src/_23_functions_part_2_functions_vs_procedures)
 24. [Functions Part 3 Parameters](src/_24_functions_part_3_parameters)
 25. [Variable Scope and Local vs Global Variables](src/_25_variable_scope_and_local_vs_global_variables)
+26. [Function Parameters by Value vs by Reference](src/_26_function_parameters_by_value_vs_by_reference)
