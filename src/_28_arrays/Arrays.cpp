@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void readNumbers(int numbers[]) {
+void readNumbers(float numbers[]) {
     cout << "Enter First Number:" << endl;
     cin >> numbers[0];
 
@@ -13,8 +13,8 @@ void readNumbers(int numbers[]) {
 }
 
 int main() {
-    int numbers[3];
+    float numbers[3];
     readNumbers(numbers);
-    const int AVERAGE = (numbers[0] + numbers[1] + numbers[2]) / 3;
+    const float AVERAGE = (numbers[0] + numbers[1] + numbers[2]) / 3.0;
     cout << "Average = " << AVERAGE;
 }
