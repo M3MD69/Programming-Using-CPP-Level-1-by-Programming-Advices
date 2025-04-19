@@ -32,3 +32,4 @@
 26. [Function Parameters by Value vs by Reference](src/_26_function_parameters_by_value_vs_by_reference)
 27. [Structures and Functions Reusability](src/_27_structures_and_functions_reusability)
 28. [Arrays](src/_28_arrays)
+29. [Arrays and Functions](src/_29_arrays_and_functions)
