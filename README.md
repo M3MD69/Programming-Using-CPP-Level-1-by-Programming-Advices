@@ -31,3 +31,4 @@
 25. [Variable Scope and Local vs Global Variables](src/_25_variable_scope_and_local_vs_global_variables)
 26. [Function Parameters by Value vs by Reference](src/_26_function_parameters_by_value_vs_by_reference)
 27. [Structures and Functions Reusability](src/_27_structures_and_functions_reusability)
+28. [Arrays](src/_28_arrays)
